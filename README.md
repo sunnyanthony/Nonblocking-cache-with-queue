@@ -11,18 +11,18 @@ Using queue to compensate nonblocking cache lower miss rate
   * [Input](#section31)
   * [Output](#section32)
 
-## Nonblocking Cache
+<h2 id="section1"> Nonblocking Cache </h2>
 ======================================
-### Low cache hit rate
-### Other method
+<h3 id="section11"> Low cache hit rate </h3>
+<h3 id="section12">  Other method </h3>
 
 
-## Using queue
+<h2 id="section2"> Using queue
 ======================================
-### Cache design
-### Equipping queue
+<h3 id="section21">  Cache design </h3>
+<h3 id="section22">  Equipping queue </h3>
 
-## I/O
+<h2 id="section3"> I/O
 ======================================
-### Input
-### Output
+<h3 id="section31">  Input </h3>
+<h3 id="section32">  Output </h3>
